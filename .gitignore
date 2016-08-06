@@ -58,3 +58,5 @@ target/
 
 #Ipython notebook
 .ipynb_checkpoints/
+
+tf/images
