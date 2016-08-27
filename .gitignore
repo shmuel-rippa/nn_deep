@@ -60,3 +60,5 @@ target/
 .ipynb_checkpoints/
 
 tf/images
+tf/bin
+tf/MNIST_data
